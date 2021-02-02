@@ -1,6 +1,6 @@
 ariadne>0.3
 beautifulsoup4<4.8
-bleach<3.2
+bleach<3.4
 celery[redis]
 django<2.3
 djangorestframework<3.10
