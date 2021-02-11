@@ -21,7 +21,7 @@
   "homepage": "https://github.com/rafalp/misago#readme",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "apexcharts": "^3.6.10",
+    "apexcharts": "^3.24.0",
     "apollo-boost": "^0.3.1",
     "bootstrap": "^4.3.1",
     "graphql": "^14.2.1",
