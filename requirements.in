@@ -13,7 +13,7 @@ html5lib<1.1
 markdown<3
 social-auth-app-django
 pyjwt
-pillow<7
+pillow<9
 psycopg2-binary<2.9
 pytest
 pytest-django
